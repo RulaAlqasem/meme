@@ -1,0 +1,45 @@
+header{
+    background-color:#e47786;
+}
+header h1 {
+    background-color: #d3516d;
+    margin-inline-start: 0em;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+ul{
+list-style: none;
+}
+ ul li{
+    text-decoration:none;
+    lighting-color: rgb(131, 48, 209);
+    text-align: center;
+    display: inline-grid;
+    padding-right: 4pc;
+ margin-top: 0em;}
+a {
+ text-decoration: none;
+}
+body{
+    background-color: cadetblue;
+   background-image:url('https://data.whicdn.com/images/353972719/original.jpg');
+background-repeat:unset;
+background-size: 300px;
+}
+ img{
+     height: 450px;
+ border-radius:1000px;
+ border: 8px solid #f89fb6;
+
+ }
+p{
+    color:rgb(173, 22, 52);
+    font-size: 20px;
+    flex-direction:initial;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   background-color: #f7e0e6;
+   text-align: center;
+}
+    
